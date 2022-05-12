@@ -5,7 +5,8 @@
 ![status](https://img.shields.io/badge/hired-brightgreen.svg)
 
 ## 소개
-![프로필이미지](img width="50%" https://user-images.githubusercontent.com/99061209/168023385-56ca27eb-faee-4fd8-9958-b8719d618d73.jpg)
+<img src="https://user-images.githubusercontent.com/99061209/168023385-56ca27eb-faee-4fd8-9958-b8719d618d73.jpg" width="200" height="200"/>
+![프로필이미지](https://user-images.githubusercontent.com/99061209/168023385-56ca27eb-faee-4fd8-9958-b8719d618d73.jpg)
 - 이름: 이병우
 - 군필여부: 육군 중위 만기 전역.
 - 취미: 음악 감상, 카페코딩, 독서, 러닝
