@@ -8,11 +8,11 @@
 ![프로필이미지](https://user-images.githubusercontent.com/99061209/168023385-56ca27eb-faee-4fd8-9958-b8719d618d73.jpg)
 - 이름: 이병우
 - 군필여부: 육군 중위 만기 전역.
-- - 취미: 음악 감상, 카페코딩, 독서, 러닝
+- 취미: 음악 감상, 카페코딩, 독서, 러닝
 - Email: solution12441@gmail.com
 - GitHub: [github.com/ttpoh](https://github.com/ttpoh)
 ```
-더 살기 좋은 세상에 기여할 수 있는 개발자가 되고 싶습니다. 
+더 나은 세상을 위해 기여할 수 있는 개발자가 되고 싶습니다. 
 
 ```
 
