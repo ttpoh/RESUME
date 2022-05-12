@@ -6,10 +6,12 @@
 
 ## 소개
 <img src="https://user-images.githubusercontent.com/99061209/168023385-56ca27eb-faee-4fd8-9958-b8719d618d73.jpg" width="200" height="200"/>
+
 - 이름: 이병우
-- 군필여부: 육군 중위 만기 전역.
-- 취미: 음악 감상, 카페코딩, 독서, 러닝
-- Email: solution12441@gmail.com
+- <br/>
+- 군필여부: 육군 중위 만기 전역.<br/>
+- 취미: 음악 감상, 카페코딩, 독서, 러닝<br/>
+- Email: solution12441@gmail.com<br/>
 - GitHub: [github.com/ttpoh](https://github.com/ttpoh)
 ```
 더 나은 세상을 위해 기여할 수 있는 개발자가 되고 싶습니다. 
@@ -36,7 +38,7 @@
 - MySQL
 
 ### Frontend
-간단한 프로토타입을 만들거나, 도메인의 구현을 참고할 수 있을 정도의 스킬을 가지고 있습니다.
+간단한 구현을 할 수 있을 정도의 스킬을 가지고 있습니다.
 - html, css
 
 그 외 흔히 채용공고에 나오는 이런 '자격요건'들을 경험 해봤습니다.
@@ -106,5 +108,5 @@
 ----
 
 여기까지 읽어주셔서 감사합니다. <br/>
-부족한 부분이나 더 궁금하신 내용이 있다면 [이슈](https://github.com/JSpiner/RESUME/issues)로 남겨주시겨나, jspiner@naver.com으로 연락주세요.<br/>
+solution12441@gmail.com으로 연락주세요.<br/>
 감사합니다.
