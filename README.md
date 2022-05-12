@@ -7,20 +7,19 @@
 ## 소개
 <img src="https://user-images.githubusercontent.com/99061209/168023385-56ca27eb-faee-4fd8-9958-b8719d618d73.jpg" width="200" height="200"/>
 
-- 이름: 이병우
-- <br/>
+- 이름: 이병우<br/>
 - 군필여부: 육군 중위 만기 전역.<br/>
 - 취미: 음악 감상, 카페코딩, 독서, 러닝<br/>
 - Email: solution12441@gmail.com<br/>
 - GitHub: [github.com/ttpoh](https://github.com/ttpoh)
 ```
-더 나은 세상을 위해 기여할 수 있는 개발자가 되고 싶습니다. 
+더 나은 세상을 위해 기여하고 싶은 신입 개발자입니다. 
 
 ```
 
 
 ## 회사경력
-- [한국복지방송](http://www.kwbc.kr/) (2020.3 ~ 2021.7)
+- [한국복지방송](http://www.kwbc.kr/) (2020.3 ~ 2021.7), 속기사
 
 ## 학력
 - 인제대학교 식품생명과학부 졸업(2008 입학)
@@ -41,20 +40,14 @@
 간단한 구현을 할 수 있을 정도의 스킬을 가지고 있습니다.
 - html, css
 
-그 외 흔히 채용공고에 나오는 이런 '자격요건'들을 경험 해봤습니다.
-- 팀 : 기능조직 / 목적조직 / 스쿼드
-- 배포 : 정기배포(1주) / 배포자동화 / 단계적배포
-- 실험 : AB 테스팅 / deeplink / referrer / Firebase
-- 모니터링 : Fabric / Google Analytics / Firebase Analytics
-- 커뮤니케이션 : Slack
+그 외.
 - 이슈관리 : Github
-- 버전관리 : Git / GitFlow
+
 
 ### TODO
 **새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
-현재는 아래것들을 익히고 있습니다.
-- Compose
-- Coroutine
+현재는 아래 것들을 익히고 있습니다.
+- 
 
 앞으로는 아래것들을 익히려고 합니다.
 - Domain Driven Design
@@ -64,43 +57,20 @@
 
 <img src='./images/toonies.png' width="80" />
 
-### 투니스
-- 소개: 합법적으로, 공짜로, 누구나 웹툰을 볼 수 있도록 도와주는 서비스
-- 사이드 프로젝트로 혼자 서버/백엔드 개발
-- 기간 : 2019.01 ~ 2019.12
-- 매출 : 8,709,411원
-
+### 일기땀
+- 소개: 운동, 식단, 신체 지수를 기록할 수 있는 안드로이드 앱.
+- 혼자 안드로이드 스튜디오, 닷홈 사용해서 개발
+- 기능 : 
+- 기간 : 2022.04.08 ~ 2022.04.29
+- 
+앱 사진 넣기
 <img src='./images/ridibooks.png' width="80" />
 
-### 리디북스
-- 소개: 1등 전자책 서비스
-- 기간: 2018.09 ~ 2020.09
-- 프로젝트 : 리디페이퍼(3세대) 앱 개발, 웹툰/웹소설용 기능 추가, 유지보수
+### 라인업
+- 소개: 함께 공연 볼 사람 구하기.
+- 기능:  
+- 기간: 2022.03.08 ~ 2022.04.05
 
-### 헤이딜러
-- 소개: 경매로 내차팔기 서비스
-- 기간: 2017.07 ~ 2018.09
-- 역할: 유지보수, 신규기능 개발
-- 관련기술: MVP, rxJava, databinding, lint, Travis, Fabric, SharedElement Transition, Canvas
-
-<img src="https://avatars0.githubusercontent.com/u/24453230?s=200&v=4" width="80" height="80"/>
-
-### CALY
-- 소개: 일정기반 추천서비스 CALY
-- 기간: 2016.12 ~ 2017.07
-- 역할: 안드로이드 어플리케이션 99%담당, Caldav 프로토콜, api서버 10% 담당, 기술블로그 작성(30%)
-- 관련기술: Android, CI/CD(travis), Caldav, 3-legged OAuth, Travis, JIRA(애자일 스프린트), Collaborative Filtering(추천 알고리즘)
-- 자세한 설명은 [이 github 그룹](https://github.com/CalyFactory)에 있습니다.
-- 기술블로그는 [이 링크](https://calyfactory.github.io/)에서 보실수 있으며, [저장소는 여기](https://github.com/CalyFactory/CalyFactory.github.io)입니다.(기여도 30%)
-
-<img src="https://github.com/JSpiner/Soma_SlackBot_taja/raw/develop/imgs/logo-circle-512.png" width="80" height="80"/>
-
-### Surfinger
-- 소개: 슬랙 봇 기반 타자게임
-- 기간: 2016.09 ~ 2016.12
-- 역할: 주요 게임로직, 멀티프로세싱 처리 (전체 447커밋중 193커밋을 기여함)
-- 관련기술: python, Message-Q, worker, Multiprocessing, RealTimeMessaging(Socket), newrelic
-- 자세한 설명은 [이 github 저장소](https://github.com/JSpiner/Soma_SlackBot_taja)에 있습니다.
 
 <br/>
 
