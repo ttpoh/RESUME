@@ -48,8 +48,7 @@
 - 개발 하면서 겪게 되는 시행착오를 세세하게 기록합니다.(https://velog.io/@talisman)
 
 ## 프로젝트 이력
-<img src="https://user-images.githubusercontent.com/99061209/168413254-391478f7-b7c0-4c26-a518-5d41c5d6bd10.jpg" width="150" height="150"/>
-<img src="https://user-images.githubusercontent.com/99061209/168413315-ea13001b-d146-43b2-9373-e6d27d72d356.jpg" width="150" height="150"/>
+<img src="https://user-images.githubusercontent.com/99061209/168413254-391478f7-b7c0-4c26-a518-5d41c5d6bd10.jpg" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/99061209/168413315-ea13001b-d146-43b2-9373-e6d27d72d356.jpg" width="150" height="150"/>
 
 
 
