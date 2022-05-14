@@ -115,9 +115,9 @@
 - 메인 화면에서 배경음악을 on/off 할 수 있습니다. <br/>
 
 - 기간: 2022.02.01 ~ 2022.03.08
-<br/>
 <img src="https://user-images.githubusercontent.com/99061209/168414002-f7cd758a-2f9d-4833-9db4-b76f60a84e40.jpg" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/99061209/168414007-1dc72e21-5208-4a0b-97d0-974911563ff4.jpg" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/99061209/168414010-2532c7a9-098c-4259-9dd3-496c5336d663.jpg" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/99061209/168414014-ba3c8210-bb54-4bc6-bc5f-e77fa3e53b21.jpg" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/99061209/168414017-8438bea8-8843-4262-a418-cd17c6cdd7d0.jpg" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/99061209/168414018-34a94ffe-6b01-4b94-ad45-6976c8e33c2d.jpg" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/99061209/168414027-88ccd846-4c08-46c3-82e4-c0014dd94c65.jpg" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/99061209/168414030-2de059a4-4151-439c-a178-666d7a3e78dc.jpg" width="150" height="150"/>
 
+<br/>
 
 ----
 
