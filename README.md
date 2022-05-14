@@ -48,9 +48,6 @@
 - 개발 하면서 겪게 되는 시행착오를 세세하게 기록합니다.(https://velog.io/@talisman)
 
 ## 프로젝트 이력
-<img src="https://user-images.githubusercontent.com/99061209/168413254-391478f7-b7c0-4c26-a518-5d41c5d6bd10.jpg" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/99061209/168413315-ea13001b-d146-43b2-9373-e6d27d72d356.jpg" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/99061209/168413397-576e0889-2cc4-40ad-bb89-75e5b680c8dc.jpg" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/99061209/168413399-98a3e437-ee2e-482d-88c4-f260654e6c10.jpg" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/99061209/168413403-96e69aba-7685-464c-bbb1-2e9fc03709cd.jpg" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/99061209/168413406-ef26ab40-bd91-4183-a060-8fb68fc90af9.jpg" width="150" height="150"/>
-
-
 
 ### 일기땀
 - 소개: 운동, 식단, 신체 지수를 기록할 수 있는 안드로이드 앱.
@@ -68,7 +65,9 @@
 - 항목별 데이터는 CRUD 가능 <br/>
 
 3. 운동 시간 측정(handler)
-- 운동한 시간을 측정해 바로 기록될 수 있게 했습니다.  
+- 운동한 시간을 측정해 바로 기록될 수 있게 했습니다.  <br/>
+
+<img src="https://user-images.githubusercontent.com/99061209/168413254-391478f7-b7c0-4c26-a518-5d41c5d6bd10.jpg" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/99061209/168413315-ea13001b-d146-43b2-9373-e6d27d72d356.jpg" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/99061209/168413397-576e0889-2cc4-40ad-bb89-75e5b680c8dc.jpg" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/99061209/168413399-98a3e437-ee2e-482d-88c4-f260654e6c10.jpg" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/99061209/168413403-96e69aba-7685-464c-bbb1-2e9fc03709cd.jpg" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/99061209/168413406-ef26ab40-bd91-4183-a060-8fb68fc90af9.jpg" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/99061209/168413567-3d9e2a98-6f9a-49d7-b5a9-f02495178cdb.jpg" width="150" height="150"/>
 
 
 
