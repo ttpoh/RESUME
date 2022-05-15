@@ -76,6 +76,7 @@
 
 ### 라인업
 - 소개: 함께 공연 볼 사람 구할 수 있는 웹사이트.
+- 우분투, Apache, PHP, MySQL
   (https://github.com/ttpoh/lineupwith)
 
 1. 회원가입, 로그인, 로그아웃<br/>
